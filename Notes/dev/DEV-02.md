@@ -2,7 +2,6 @@
 ### Tags: [geometry nodes]
 ### Link:[<https://academy.cgboost.com/courses/master-3d-environments-in-blender/lectures/37738867>,<https://academy.cgboost.com/courses/master-3d-environments-in-blender/lectures/37738871>]
 
-
 ## Terrain
 
 ![](../images/DEV-02/DEV-02-A1.png)

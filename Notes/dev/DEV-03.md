@@ -1,4 +1,4 @@
-# DEV-03,
+# DEV-03, Geo Node Fence
 ### Tags: []
 ### Link:[<>]
 
@@ -17,8 +17,3 @@
 ![](../images/DEV-03/DEV-03-A7.png)
 
 ![](../images/DEV-03/DEV-03-A8.png)
-
-![](../images/DEV-03/DEV-03-A9.png)
-
-![](../images/DEV-03/DEV-03-A10.png)
-
